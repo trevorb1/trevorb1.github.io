@@ -7,8 +7,9 @@ date: 2023-02-13
 venue: 'Open Research Europe'
 contribution: "Co-author"
 paperurl: 'https://open-research-europe.ec.europa.eu/articles/3-30'
-citation: ""
 ---
+
+# Abstract
 
 Energy system models are used for planning national energy systems. There is 
 little practical guidance on how to best incorporate existing techniques that 
@@ -29,10 +30,14 @@ researchers to focus their effort on better understanding these parameters,
 increasing the robustness of their work, and increasing confidence in the models 
 and their results.
 
+# Links
+
 [Open Access Paper](https://open-research-europe.ec.europa.eu/articles/3-30)
 
 [Code Repository](https://github.com/KTH-dESA/esom_gsa)
 
-Recommended citations:
+# Recommended citation:
 
-> Usher W, Barnes T, Moksnes N and Niet T. Global sensitivity analysis to enhance the transparency and rigour of energy system optimisation modelling. Open Res Europe 2023, 3:30 (https://doi.org/10.12688/openreseurope.15461.1)
+<pre>
+Usher W, Barnes T, Moksnes N and Niet T. Global sensitivity analysis to enhance the transparency and rigour of energy system optimisation modelling. Open Res Europe 2023, 3:30 (https://doi.org/10.12688/openreseurope.15461.1)
+</pre>
