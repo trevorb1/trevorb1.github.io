@@ -2,8 +2,12 @@
 title: "OSeMOSYS Global, an open-source, open data global electricity system model generator"
 collection: publications
 permalink: /publication/2022-10-osemosys-global
+excerpt: ""
+date: 2022-10-14
+venue: "Nature Scientific Data"
 contribution: "Lead author"
 paperurl: 'https://www.nature.com/articles/s41597-022-01737-0'
+citation: ""
 ---
 
 This paper describes OSeMOSYS Global, an open-source, open-data model generator 
@@ -23,6 +27,4 @@ OSeMOSYS Global, and provides illustrative workflow results.
 
 Recommended citation
 
-```bash
-Barnes, T., Shivakumar, A., Brinkerink, M. et al. OSeMOSYS Global, an open-source, open data global electricity system model generator. Sci Data 9, 623 (2022). https://doi.org/10.1038/s41597-022-01737-0
-```
+> Barnes, T., Shivakumar, A., Brinkerink, M. et al. OSeMOSYS Global, an open-source, open data global electricity system model generator. Sci Data 9, 623 (2022). https://doi.org/10.1038/s41597-022-01737-0

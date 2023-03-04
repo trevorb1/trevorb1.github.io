@@ -2,8 +2,12 @@
 title: "Global sensitivity analysis to enhance the transparency and rigour of energy system optimisation modelling"
 collection: publications
 permalink: /publication/2023-02-osemosys-gsa
+excerpt: ""
+date: 2023-02-13
+venue: 'Open Research Europe'
 contribution: "Co-author"
 paperurl: 'https://open-research-europe.ec.europa.eu/articles/3-30'
+citation: ""
 ---
 
 Energy system models are used for planning national energy systems. There is 
@@ -29,8 +33,6 @@ and their results.
 
 [Code Repository](https://github.com/KTH-dESA/esom_gsa)
 
-Recommended citation
+Recommended citations:
 
-```bash
-Usher W, Barnes T, Moksnes N and Niet T. Global sensitivity analysis to enhance the transparency and rigour of energy system optimisation modelling. Open Res Europe 2023, 3:30 (https://doi.org/10.12688/openreseurope.15461.1)
-```
+> Usher W, Barnes T, Moksnes N and Niet T. Global sensitivity analysis to enhance the transparency and rigour of energy system optimisation modelling. Open Res Europe 2023, 3:30 (https://doi.org/10.12688/openreseurope.15461.1)
