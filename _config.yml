@@ -81,15 +81,15 @@ analytics:
 # Site Author
 author:
   name             : "Trevor Barnes"
-  avatar           : "Trevor.jpeg"
+  avatar           : "TrevorV2.jpeg"
   bio              : "Energy System Researcher | PhD Student"
   location         : "Vancouver, Canada"
-  employer         : "https://www.sfu.ca/see/research/delta-e.html"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ojQlEHUAAAAJ&hl"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Trevor-Barnes-2"
-  uri              :
+  uri              : "https://www.sfu.ca/see/research/delta-e.html"
   bitbucket        :
   codepen          :
   dribbble         :
