@@ -1,6 +1,6 @@
 ---
 title: "Building Core Energy Literacy Skills for Students Using WeBWork Problem Sets"
-excerpt: "Understanding the energy literacy skills of first year engineering undergraduate students<br/><img src='/images/wind-turbine.jpg' width="500">"
+excerpt: "Understanding the energy literacy skills of first year engineering undergraduate students<br/><img src='/images/wind-turbine.jpg'>"
 collection: portfolio
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "OSeMOSYS Global"
-excerpt: "An open-source, open-data model generator for creating global energy system models<br/><img src='/images/osemosys-global.png'>"
+excerpt: "An open-source, open-data model generator for creating global energy system models<br/><img src='/images/osemosys-global.png' width="500" height ="300">"
 collection: portfolio
 ---
 

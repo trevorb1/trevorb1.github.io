@@ -9,7 +9,7 @@ contribution: "Co-author"
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S2211467X22001237?via%3Dihub'
 ---
 
-### Abstract
+# Abstract
 
 In this paper the Climate, Land, Energy, and Water system (CLEWs) interactions of biofuel
 production are addressed. We utilize an open-source modelling framework to assess direct 
@@ -21,14 +21,13 @@ even more limiting for the Canadian context. While switchgrass biofuels can cont
 low-carbon dispatchable electricity, the land and water use impacts suggest that any 
 biofuels should be used for hard to decarbonize sectors prior to using them for electricity.
 
-### Links
+# Links
 
 [Open Access Paper](https://www.sciencedirect.com/science/article/pii/S2211467X22001237?via%3Dihub)
 
 [Code Repository](https://github.com/DeltaE/clews_canada)
 
-### Recommended citation
+# Recommended citation
 
-<pre>
-Kuling, K., Barnes, T., Shivakumar, A., Brinkerink, M., & Niet, T. (2022). Applying the open-source climate, land, energy, and water systems (CLEWs) model to Canada. In Energy Strategy Reviews (Vol. 44, p. 100929). Elsevier BV. https://doi.org/10.1016/j.esr.2022.100929 
-</pre>
+> Kuling, K., Barnes, T., Shivakumar, A., Brinkerink, M., & Niet, T. (2022). Applying the open-source climate, land, energy, and water systems (CLEWs) model to Canada. In Energy Strategy Reviews (Vol. 44, p. 100929). Elsevier BV. https://doi.org/10.1016/j.esr.2022.100929 
+

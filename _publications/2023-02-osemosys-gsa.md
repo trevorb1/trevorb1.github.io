@@ -36,8 +36,6 @@ and their results.
 
 [Code Repository](https://github.com/KTH-dESA/esom_gsa)
 
-# Recommended citation:
+# Recommended citation
 
-<pre>
-Usher W, Barnes T, Moksnes N and Niet T. Global sensitivity analysis to enhance the transparency and rigour of energy system optimisation modelling. Open Res Europe 2023, 3:30 (https://doi.org/10.12688/openreseurope.15461.1)
-</pre>
+> Usher W, Barnes T, Moksnes N and Niet T. Global sensitivity analysis to enhance the transparency and rigour of energy system optimisation modelling. Open Res Europe 2023, 3:30 (https://doi.org/10.12688/openreseurope.15461.1)
