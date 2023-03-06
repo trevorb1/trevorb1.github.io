@@ -1,6 +1,6 @@
 ---
 title: "Building Core Energy Literacy Skills for Students Using WeBWork Problem Sets"
-excerpt: "Understanding the energy literacy skills of first year engineering undergraduate students through the implementation of open-source energy system problem sets<br/><img src='/images/wind-turbine-small.jpg'>"
+excerpt: "Understanding the energy literacy skills of first year engineering undergraduate students through the implementation of open-source energy system problem sets<br/>"
 collection: portfolio
 ---
 

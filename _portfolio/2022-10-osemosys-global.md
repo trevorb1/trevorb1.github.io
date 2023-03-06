@@ -1,6 +1,6 @@
 ---
 title: "OSeMOSYS Global"
-excerpt: "An open-source, open-data model generator for creating global energy system models<br/><img src='/images/osemosys-global-small.png'>"
+excerpt: "An open-source, open-data model generator for creating global energy system models<br/>"
 collection: portfolio
 ---
 
@@ -25,3 +25,5 @@ Read the open access paper [here](https://www.nature.com/articles/s41597-022-017
 Read the OSeMOSYS Global documentation [here](https://osemosys-global.readthedocs.io/en/latest/)
 
 View the code repository [here](https://github.com/OSeMOSYS/osemosys_global)
+
+![osemosys-global](../images/osemosys-global.png "osemosys-global")
